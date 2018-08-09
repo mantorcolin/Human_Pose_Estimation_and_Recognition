@@ -20,7 +20,7 @@ Inspired by [Human Pose Estimation from RGB Camera](https://github.com/horefice/
 <a name="2d_models" />
 
 ### 2D models
-<b>:camera::couple: [CVPR2017]Realtime multi-person 2D pose estimation using part affinity fields</b> [[Project]](https://www.ri.cmu.edu/publications/realtime-multi-person-2d-pose-estimation-using-part-affinity-fields/)[[Code]](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)[[PDF]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Cao_Realtime_Multi-Person_2D_CVPR_2017_paper.pdf)[[Dataset]](http://cocodataset.org/#home)
+<b>:camera::couple: [CVPR2017]Realtime multi-person 2D pose estimation using part affinity fields</b> [[Project]](https://www.ri.cmu.edu/publications/realtime-multi-person-2d-pose-estimation-using-part-affinity-fields/)[[Code]](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)[[Dataset]](http://cocodataset.org/#home)[[PDF]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Cao_Realtime_Multi-Person_2D_CVPR_2017_paper.pdf)
 
 <a name="3d_models" />
 
