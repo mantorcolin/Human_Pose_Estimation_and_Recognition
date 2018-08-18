@@ -26,3 +26,4 @@ Inspired by [Human Pose Estimation from RGB Camera](https://github.com/horefice/
 
 ### 3D Models
 <b>:camera::couple: [CVPR2018]DensePose Dense Human Pose Estimation In The Wild</b> [[Project]](https://densepose.org/)[[Code]](https://github.com/facebookresearch/Densepose)[[PDF]](https://arxiv.org/abs/1802.00434)
+<b>:camera::couple: [SIGGRAPH2017]VNect Real-time 3D Human Pose Estimation with a Single RGB Camera</b> [[Project]](http://gvv.mpi-inf.mpg.de/projects/VNect/)]
